@@ -2,6 +2,10 @@
 
 A computer vision prototype that detects hand raises in a recorded webcam session. It shows the total count and the start time, end time, and duration of each raise. Click a start time in the timeline to jump to that moment in the replay.
 
+## Demo
+
+[Watch the Classroom Hand Raise Detector demo on YouTube](https://www.youtube.com/watch?v=cfwvYHHEKSY)
+
 ## Run locally
 
 You’ll need Python 3.11 and Node.js with npm. The commands below use PowerShell on Windows. Run each block from the repository root in a separate terminal.
