@@ -1,0 +1,19 @@
+# Installed dependencies
+.venv/
+node_modules/
+
+# Python cache and frontend build output
+__pycache__/
+*.py[cod]
+dist/
+
+# Local settings and credentials
+.env
+.env.*
+!.env.example
+
+# Local recordings
+recordings/
+storage/
+*.mp4
+*.webm
