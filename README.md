@@ -2,9 +2,13 @@
 
 A computer vision prototype that detects hand raises in a recorded webcam session. It shows the total count and the start time, end time, and duration of each raise. Click a start time in the timeline to jump to that moment in the replay.
 
-## Demo
+## Demo Video
 
-[Watch the Classroom Hand Raise Detector demo on YouTube](https://www.youtube.com/watch?v=cfwvYHHEKSY)
+See how the app detects hand raises in a webcam recording and lets you jump to each event in the replay.
+
+[![Watch the Classroom Hand Raise Detector demo](https://img.youtube.com/vi/cfwvYHHEKSY/hqdefault.jpg)](https://www.youtube.com/watch?v=cfwvYHHEKSY)
+
+**[Watch Demo on YouTube](https://www.youtube.com/watch?v=cfwvYHHEKSY)**
 
 ## Run locally
 
